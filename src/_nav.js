@@ -21,30 +21,30 @@ import {
 import { CNavGroup, CNavItem, CNavTitle } from '@coreui/react'
 
 const _nav = [
+  // {
+  //   component: CNavItem,
+  //   name: 'Denuncias',
+  //   to: '/denuncias',
+  //   icon: <CIcon icon={cilWarning} customClassName="nav-icon" style={{ color: 'red' }} />,
+  // },
   {
     component: CNavItem,
     name: 'Denuncias',
-    to: '/denuncias',
-    icon: <CIcon icon={cilWarning} customClassName="nav-icon" style={{ color: 'red' }} />,
-  },
-  {
-    component: CNavItem,
-    name: 'Denuncias activas',
     to: '/theme/colors',
     icon: <CIcon icon={cilWarning} customClassName="nav-icon"   style={{ color: 'red' }}/>,
   },
   {
     component: CNavItem,
-    name: 'Conteudos',
+    name: 'Gestao de Usuarios',
     to: '/theme/typography',
     icon: <CIcon icon={cilPencil} customClassName="nav-icon"   style={{ color: 'red' }}/>,
   },
-  {
-    component: CNavItem,
-    name: 'Gestao de Usuarios',
-    to: '/users',
-    icon: <CIcon icon={cilUser} customClassName="nav-icon"   style={{ color: 'red' }}/>,
-  },
+  // {
+  //   component: CNavItem,
+  //   name: 'Gestao de Usuarios',
+  //   to: '/users',
+  //   icon: <CIcon icon={cilUser} customClassName="nav-icon"   style={{ color: 'red' }}/>,
+  // },
   {
     component: CNavItem,
     name: 'Definicoes',
