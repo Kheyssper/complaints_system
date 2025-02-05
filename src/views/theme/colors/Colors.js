@@ -5,6 +5,9 @@ const denunciasData = [
   { id: 1, codigo: 'D001', data: '2023-01-01', anonimo: true, status: 'Pendente', conteudo: 'Venho por meio desta apresentar uma denúncia formal contra o estabelecimento comercial Supermercado Estrela, localizado na Avenida Julius Nyerere, nº 245, Maputo, devido às péssimas condições sanitárias encontradas no dia 3 de fevereiro de 2025. Durante minha visita como cliente, constatei a presença de alimentos vencidos nas prateleiras, produtos armazenados diretamente no chão e funcionários manipulando alimentos sem equipamentos de proteção individual adequados, situação que representa grave risco à saúde pública e viola as normas sanitárias vigentes no país.' },
   { id: 2, codigo: 'D002', data: '2023-01-02', anonimo: false, status: 'Em andamento', conteudo: 'Conteúdo da denúncia 2' },
   { id: 3, codigo: 'D003', data: '2023-01-03', anonimo: true, status: 'Concluído', conteudo: 'Conteúdo da denúncia 3' },
+  { id: 4, codigo: 'D004', data: '2023-01-01', anonimo: true, status: 'Pendente', conteudo: 'Venho por meio desta apresentar uma denúncia formal contra o estabelecimento comercial Supermercado Estrela, localizado na Avenida Julius Nyerere, nº 245, Maputo, devido às péssimas condições sanitárias encontradas no dia 3 de fevereiro de 2025. Durante minha visita como cliente, constatei a presença de alimentos vencidos nas prateleiras, produtos armazenados diretamente no chão e funcionários manipulando alimentos sem equipamentos de proteção individual adequados, situação que representa grave risco à saúde pública e viola as normas sanitárias vigentes no país.' },
+  { id: 5, codigo: 'D005', data: '2023-01-02', anonimo: false, status: 'Em andamento', conteudo: 'Conteúdo da denúncia 2' },
+  { id: 6, codigo: 'D006', data: '2023-01-03', anonimo: true, status: 'Concluído', conteudo: 'Conteúdo da denúncia 3' },
   // Adicione mais dados conforme necessário
 ]
 
